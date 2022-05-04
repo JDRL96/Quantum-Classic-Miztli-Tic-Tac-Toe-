@@ -11,6 +11,7 @@ Quantum/Classic Miztli is a voice interactive game of Tic-Tac-Toe developed for 
 (Hackatón sobre tecnologías del habla) held online by the National Autonomous University of Mexico. 
 
 Current capabilities:
+
 	*	Two-player game of Tic-Tac-Toe (known as Miztli=Gato=Cat in Nahuatl and Mexican spanish) using voice commands in
 		Spanish and Nahuatl.
 	*	Visualizations using Jupyter notebooks/Google colab.
